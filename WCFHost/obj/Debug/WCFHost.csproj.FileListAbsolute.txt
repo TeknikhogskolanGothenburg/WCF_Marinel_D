@@ -1,0 +1,17 @@
+C:\Users\info\source\repos\WCFcodedByMadi\WCFHost\bin\Debug\WCFHost.exe.config
+C:\Users\info\source\repos\WCFcodedByMadi\WCFHost\bin\Debug\WCFHost.exe
+C:\Users\info\source\repos\WCFcodedByMadi\WCFHost\bin\Debug\WCFHost.pdb
+C:\Users\info\source\repos\WCFcodedByMadi\WCFHost\bin\Debug\CarRentWCFService.dll
+C:\Users\info\source\repos\WCFcodedByMadi\WCFHost\bin\Debug\Models.dll
+C:\Users\info\source\repos\WCFcodedByMadi\WCFHost\bin\Debug\BusinessLogic.dll
+C:\Users\info\source\repos\WCFcodedByMadi\WCFHost\bin\Debug\Storage.dll
+C:\Users\info\source\repos\WCFcodedByMadi\WCFHost\bin\Debug\CarRentWCFService.pdb
+C:\Users\info\source\repos\WCFcodedByMadi\WCFHost\bin\Debug\CarRentWCFService.dll.config
+C:\Users\info\source\repos\WCFcodedByMadi\WCFHost\bin\Debug\Models.pdb
+C:\Users\info\source\repos\WCFcodedByMadi\WCFHost\bin\Debug\BusinessLogic.pdb
+C:\Users\info\source\repos\WCFcodedByMadi\WCFHost\bin\Debug\Storage.pdb
+C:\Users\info\source\repos\WCFcodedByMadi\WCFHost\obj\Debug\WCFHost.csprojAssemblyReference.cache
+C:\Users\info\source\repos\WCFcodedByMadi\WCFHost\obj\Debug\WCFHost.csproj.CoreCompileInputs.cache
+C:\Users\info\source\repos\WCFcodedByMadi\WCFHost\obj\Debug\WCFHost.csproj.CopyComplete
+C:\Users\info\source\repos\WCFcodedByMadi\WCFHost\obj\Debug\WCFHost.exe
+C:\Users\info\source\repos\WCFcodedByMadi\WCFHost\obj\Debug\WCFHost.pdb

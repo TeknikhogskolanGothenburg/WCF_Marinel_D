@@ -1,0 +1,9 @@
+C:\Users\info\source\repos\WCFcodedByMadi\Storage\bin\Debug\Storage.dll
+C:\Users\info\source\repos\WCFcodedByMadi\Storage\bin\Debug\Storage.pdb
+C:\Users\info\source\repos\WCFcodedByMadi\Storage\bin\Debug\Models.dll
+C:\Users\info\source\repos\WCFcodedByMadi\Storage\bin\Debug\Models.pdb
+C:\Users\info\source\repos\WCFcodedByMadi\Storage\obj\Debug\Storage.csprojAssemblyReference.cache
+C:\Users\info\source\repos\WCFcodedByMadi\Storage\obj\Debug\Storage.csproj.CoreCompileInputs.cache
+C:\Users\info\source\repos\WCFcodedByMadi\Storage\obj\Debug\Storage.csproj.CopyComplete
+C:\Users\info\source\repos\WCFcodedByMadi\Storage\obj\Debug\Storage.dll
+C:\Users\info\source\repos\WCFcodedByMadi\Storage\obj\Debug\Storage.pdb

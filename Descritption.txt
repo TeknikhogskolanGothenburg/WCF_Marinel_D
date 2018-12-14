@@ -1,0 +1,55 @@
+Marinel Dimitrije: 
+www.codedByMadi.NET
+
+
+Hur jag hanterar exceptions.
+
+Jag har aktiverat serviceDebug i behaviors <serviceDebug includeExceptionDetailInFaults="true" />
+Jag använter throw new.. som kaster FaultException istället för .Net exeptions.
+se RentCarService.ReturnCarService och RentCarService.AddCarService
+
+Varför använder jag inte .Net exeprions? 
+.NET exeptions de är platform beroende(bara .NET)och vid cleint fel kommer den att stänga ner komunikatinen 
+mellan clienten och serven (proxy = död).
+
+Man kan också hantera exceptions med... 
+Creating and throwing strongly typed SOAP faults ---> se länken - https://www.youtube.com/watch?v=OVDy3lX7sj4&index=19&list=PL6n9fhu94yhVxEyaRMaMN_-qnDdNVGsL1 
+Centralized exception handling in WCF by implementing IErrorHandler interface se länken ----> https://www.youtube.com/watch?v=7wF4QXcD9yo&index=20&list=PL6n9fhu94yhVxEyaRMaMN_-qnDdNVGsL1 
+
+
+Säkerhet:
+
+Jag har valt att använda 2 olika "bindings" de är wsHTTPbinding och netTCPbinding,båda har säkerhet aktiverad som default.
+wsHTTPbinding har delault säkerhet på meddelande nivå och netTCPbinding har delault säkerhet på transportnivån.
+
+
+Hosting:
+
+Jag valde att köra båda mina WCF hostingar som Self-Hosting i en Console application(vanligt/rekommenderas vid developing,
+enkel att konfigurera och att debuga).
+Vid skarp körning så hade jag valt en annan Hosting Form som till ex. ISS.
+Varför kör jag 2 olika Hostingar? jag vill kunna välja att stänga båda eller ha öppet en eller båda.
+De är oberoende av varandra.
+
+
+REST:
+
+Jag gjorde en REST Hosting se WCFHostREST och ett interface se IRentCarServiceREST.
+Testat lite med olika WebMessigeFormat som Json och Xml.
+
+
+Contract:
+Valde att ha 2 classer som DATAContract med Datamember på de olika propertys och ett class (CustomerInfo) som  använder 
+MessigeContract till classen och messigeHeader till property "LicensKey". Med messigeHeader ville jag uppnå att få in licensnycklar från Service användaren.
+Ändrade lite ordningen på propertys så de i oedningen som jag i SOAP meddelandet.
+Varför valde jag att ha MessigeContract istället för DataContract på CustomerInfo classen?
+När man har messigecontract då kan man bestämma själv hur SOAP meddelandet ska se ut och man kan ändra den fullständigt, det är inte möjligt med DataContrakt 
+där genereras ett SOAP meddelande automatiskt från det som finns i Interfacet.
+
+
+
+
+
+
+
+

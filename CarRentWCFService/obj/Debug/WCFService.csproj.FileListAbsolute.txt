@@ -1,0 +1,14 @@
+C:\Users\info\source\repos\WCFcodedByMadi\CarRentWCFService\bin\Debug\CarRentWCFService.dll.config
+C:\Users\info\source\repos\WCFcodedByMadi\CarRentWCFService\bin\Debug\CarRentWCFService.dll
+C:\Users\info\source\repos\WCFcodedByMadi\CarRentWCFService\bin\Debug\CarRentWCFService.pdb
+C:\Users\info\source\repos\WCFcodedByMadi\CarRentWCFService\bin\Debug\BusinessLogic.dll
+C:\Users\info\source\repos\WCFcodedByMadi\CarRentWCFService\bin\Debug\Models.dll
+C:\Users\info\source\repos\WCFcodedByMadi\CarRentWCFService\bin\Debug\Storage.dll
+C:\Users\info\source\repos\WCFcodedByMadi\CarRentWCFService\bin\Debug\BusinessLogic.pdb
+C:\Users\info\source\repos\WCFcodedByMadi\CarRentWCFService\bin\Debug\Models.pdb
+C:\Users\info\source\repos\WCFcodedByMadi\CarRentWCFService\bin\Debug\Storage.pdb
+C:\Users\info\source\repos\WCFcodedByMadi\CarRentWCFService\obj\Debug\WCFService.csprojAssemblyReference.cache
+C:\Users\info\source\repos\WCFcodedByMadi\CarRentWCFService\obj\Debug\WCFService.csproj.CoreCompileInputs.cache
+C:\Users\info\source\repos\WCFcodedByMadi\CarRentWCFService\obj\Debug\WCFService.csproj.CopyComplete
+C:\Users\info\source\repos\WCFcodedByMadi\CarRentWCFService\obj\Debug\CarRentWCFService.dll
+C:\Users\info\source\repos\WCFcodedByMadi\CarRentWCFService\obj\Debug\CarRentWCFService.pdb
